@@ -10,4 +10,4 @@
 
 ## [Projeto final:](./Projeto/README.md)
 
-Apresente uma breve descrição do seu projeto.
+O projeto é uma plataforma online para adoção de animais de estimação. Conecta doadores e adotantes, permitindo que usuários encontrem animais para adoção. O objetivo é facilitar o processo de adoção responsável, promovendo a conscientização e aumentando o número de adoções bem-sucedidas.
