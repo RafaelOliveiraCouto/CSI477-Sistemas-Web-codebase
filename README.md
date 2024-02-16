@@ -2,11 +2,11 @@
 
 ## Atualize os seus dados
 
-- Nome:
-- Matrícula:
-- Curso:
-- Semestre/Ano correntes:
-- Link para o seu GitHub:
+- Nome: Rafael Oliveira Couto
+- Matrícula: 20.2.8069
+- Curso: Sistema de Informação
+- Semestre/Ano correntes: 2023/2
+- Link para o seu GitHub: [RafaelOliveiraCouto](https://github.com/RafaelOliveiraCouto)
 
 ## [Projeto final:](./Projeto/README.md)
 
