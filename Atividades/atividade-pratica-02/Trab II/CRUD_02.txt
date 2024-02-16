@@ -1,0 +1,13 @@
+Crie o Front juntamente com Instancias da Aplicação:
+
+1) Crie uma pasta chamada "web" para difrenciar o server do fronte
+
+2) Utilize o vite para criar o front:
+npm create vite@latest web-vite -- --template react-ts
+OBS: "web-vite" é o nome da pasta q vc deseja colocar esses arquivos para manipular o front
+
+3) Agora siga os comandos: cd web-vite; npm install; npm run dev
+
+4) Cria-se as aplicações dentro da pasta de "SRC"
+
+5) npx create-next-app@latest e fazer tudo no padrão
