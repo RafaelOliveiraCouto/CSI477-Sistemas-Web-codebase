@@ -1,4 +1,4 @@
-# **CSI606-2021-02 - Remoto - Proposta de Trabalho Final**
+# **Proposta de Trabalho Final**
 
 ## *Aluna(o): Rafael Oliveira Couto - 20.2.8069*
 

@@ -1,4 +1,4 @@
-# **CSI606-2021-02 - Estrutura básica do repositório**
+# **Estrutura básica do repositório**
 
 ## Atualize os seus dados
 
